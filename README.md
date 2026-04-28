@@ -3,7 +3,7 @@
 ## 📌 Tổng quan
 Dự án này thực hiện bài toán phân loại chữ số viết tay (MNIST) sử dụng **[Lightning-Hydra-Template](https://github.com/ashleve/lightning-hydra-template)**. 
 
-Kiến trúc mô hình và logic huấn luyện được tinh chỉnh để tương thích với cấu trúc tại **[Colab Research - MNIST Lightning](https://colab.research.google.com/drive/1HBlptp22dyCeSMFc_DIj2mqpypkJkx-9)**.
+Kiến trúc mô hình và logic huấn luyện được giống với cấu trúc tại **[Colab Research - MNIST Lightning](https://colab.research.google.com/drive/1HBlptp22dyCeSMFc_DIj2mqpypkJkx-9)**.
 
 ---
 ## 🚀 Hướng dẫn nhanh (Cài đặt & Chạy)
